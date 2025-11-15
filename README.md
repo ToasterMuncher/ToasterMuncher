@@ -2,9 +2,9 @@
 
 Senior Computer Engineering student at UW Tacoma (3.7 GPA) building toward a career in VR hardware - one embedded system at a time
 
-Currently developing rocket guidance systems, implementing UEFI secure boot, and exploring real-time computing challenges through Linux kernel development
+Currently developing VR controller, color passthrough for VR devices using monochrome vision, and exploring real-time computing challenges through Linux kernel development
 
-**Passionate about:** VR/AR hardware • Embedded systems • Avionics • Low-latency real-time systems
+**Passionate about:** VR/AR hardware • Embedded systems • Low-latency real-time systems
 
 **Seeking:** New grad hardware engineering roles | Summer 2026
 
